@@ -16,7 +16,7 @@
 
     <main> 
         <textarea rows=10 cols=40> <?get_headers('https://httpbin.org/post')?> </textarea>
-        <button url="index.php">Back</button>
+        <a href="/index.php" class="button beer-button-blue">BACK</a>
     </main>
     
 

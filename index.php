@@ -38,7 +38,7 @@
 
         </form>
 
-        <button url="second.php">Back</button>
+        <a href="/second.php" class="button beer-button-blue">GO</a>
     </main>
     
 
