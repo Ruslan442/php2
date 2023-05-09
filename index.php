@@ -11,7 +11,7 @@
 
     <header>
         <img src="/img/poli.png" class="logo">
-        <h1>Домашняя работа: Hello, World!</h1>
+        <h1>Домашняя работа: Feedback Form</h1>
     </header>
 
     <main> 
